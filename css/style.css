@@ -225,3 +225,7 @@ footer a:hover{
     text-decoration: underline;
     color: var(--cor1);
 }
+
+article h1{
+    font-size: 1.5em;
+}
